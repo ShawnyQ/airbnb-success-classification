@@ -102,6 +102,19 @@ Also:
 
 ---
 
+## 📂 Download Processed Datasets
+
+Due to GitHub's file size limitations, the full processed CSVs are hosted externally:
+
+- 🔗 [Download csv files here](https://drive.google.com/drive/folders/1pJx0ti0z8aM5jP7q7ZsDw_uCSJZ0yuKL?usp=sharing)
+
+To use them:
+1. Download all files
+2. Place them in the root of this project directory
+3. Open `airbnb_success_prediction.ipynb` and run the notebook
+
+---
+
 ## 👨‍💻 Author
 
 **Shawn Waringu**  
