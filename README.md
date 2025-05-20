@@ -118,7 +118,7 @@ To use them:
 ## 👨‍💻 Author
 
 **Shawn Waringu**  
-Data Scientist | Filmmaker-turned-ML engineer | Dubai  
+Data Scientist & Analyst
 [LinkedIn](https://www.linkedin.com/in/shawn-chege-856048312) | [GitHub](https://github.com/your-handle)
 
 ---
