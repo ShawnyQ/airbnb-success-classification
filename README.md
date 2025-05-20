@@ -119,6 +119,7 @@ To use them:
 
 **Shawn Waringu**  
 Data Scientist & Analyst
+
 [LinkedIn](https://www.linkedin.com/in/shawn-chege-856048312)
 [GitHub](https://github.com/your-handle)
 
