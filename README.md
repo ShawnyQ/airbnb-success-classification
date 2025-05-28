@@ -1,4 +1,4 @@
-# 🏡 Predicting Airbnb Listing Success in Dubai
+# 🏡 Predicting Airbnb Listing Success
 
 This project builds a full end-to-end machine learning pipeline to predict the **success tier of an Airbnb listing** — categorized as **Excellent**, **Good**, or **Average** — using only publicly available metadata.
 
