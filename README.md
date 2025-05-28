@@ -94,13 +94,6 @@ Also:
 
 ---
 
-## 🚀 Next Steps
-
-- 🧠 Integrate text-based features (e.g., listing description NLP)
-- 🗓️ Add booking calendar patterns (seasonality, frequency)
-- 📱 Deploy via Streamlit for agent-ready scoring tool
-
----
 
 ## 📂 Download Processed Datasets
 
